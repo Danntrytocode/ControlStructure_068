@@ -7,9 +7,9 @@ if x > y and x > z:
     print("The largest is: ", x)
 elif y > x and y > z:
     largest = y
-    print("The largest is: ". y)
+    print("The largest is: ", y)
 elif z > x and z > y:
     largest = z
     print("The largest is: ", z)
 else:
-    ("There no Largest Number")
+    print("There no Largest Number")
