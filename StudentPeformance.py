@@ -7,3 +7,6 @@ elif peformance >=80:
     print ("Very Good performance")
 elif performance >=70:
     print ("Good Performance")
+else:
+    print ("Average Performance")
+print ("Keep Learning!")
